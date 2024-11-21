@@ -1,0 +1,249 @@
+more: Thêm
+star: Này, những người tìm thấy niềm vui trong tác phẩm này cũng đã đọc
+random: Ngẫu nhiên
+upload: 'datetime: '
+totalk: Bạn không cần phải xóa các dòng trống, chỉ cần nhập bình luận của bạn vào.
+loading: Đang tải...
+day: ' ngày'
+hot-tip: Hot
+
+theme:
+  dark: Tối
+  light: Sáng
+
+copy:
+  success: Đã sao chép
+  error: Sao chép thất bại
+
+copy_copyright:
+  author: Tác giả
+  link: Liên kết
+  source: Nguồn
+  info: Bản quyền thuộc về tác giả. Đối với các bản in lại thương mại, vui lòng liên hệ với tác giả để được ủy quyền. Đối với các bản in lại phi thương mại, vui lòng ghi rõ nguồn.
+
+time:
+  day: " ngày trước"
+  hour: " giờ trước"
+  just: "just"
+  min: " phút trước"
+  month: " tháng trước"
+
+page:
+  tag: Thẻ
+  category: Danh mục
+  tags: Tất cả các thẻ
+  categories: Tất cả danh mục
+  archives: Lưu trữ
+  404: Trang không tìm thấy
+
+home:
+  home: Đề xuất
+  sticky: Sticky
+  new: Mới
+  read: Chưa đọc
+  recommend: Đề xuất
+  recommendmore: Thêm
+  archives: Tất cả bài viết
+
+post:
+  reprint: In lại
+  original: Nguyên bản
+  cc: Bài viết này là bài viết ${cc}, hãy chú ý đến bản quyền.
+  posted: Đăng lúc
+  updated: Cập nhật lúc
+  wordcount: Số từ
+  minread: Thời gian đọc
+  ip: IP của tác giả thuộc về
+  pv: PV
+  comment: Bình luận
+  copyright:
+    reprint: Bài viết này là bản sao hoặc bản dịch, và bản quyền thuộc về tác giả gốc. Vui lòng liên hệ với tác giả gốc để xin phép tái bản bài viết này.
+    original: Bài viết này là một bài viết gốc, sử dụng
+    original_end: Thỏa thuận. Để sao chép đầy đủ, vui lòng ghi rõ nguồn là Lịch sự của
+  share:
+    qq: Chia sẻ tới QQ
+    weibo: Chia sẻ Weibo
+    telegram: Chia sẻ tới Telegram
+    twitter: Chia sẻ tới Twitter
+    linkedin: Chia sẻ tới LinkedIn
+    facebook: Chia sẻ tới Facebook
+    link: Chia sẻ liên kết
+    qrcode: Chia sẻ tới QR code
+    whatsapp: Chia sẻ tới WhatsApp
+  ai:
+    title: Tóm tắt bài viết
+    tip: Khiếu nại
+  nav:
+    next: Tiếp theo
+    prev: Trước đó
+
+
+nav:
+  site_name_title: Về trang chủ
+  backtop: Top
+  travellings: Traveling - Friends Link
+  search: Tìm kiếm
+  randompost: Bài đăng ngẫu nhiên
+  console: Bảng điều khiển
+
+award:
+  thanks: Cảm ơn
+  tipping: Tài trợ
+  title: Danh sách tôn vinh
+
+search:
+  empty: Không tìm thấy kết quả nào
+  hit: Đã tìm thấy ${query} kết quả cho bạn
+  placeholder: Nhập từ khóa để tìm kiếm
+  count: Tổng cộng <b>${count}</b> kết quả.
+  load: Đang tải...
+
+head:
+  noscript: Vui lòng bật JavaScript để xem trang web
+
+aside:
+  postcount: 'Bài viết:'
+  pv: 'PV:'
+  uv: 'UV:'
+  runtime: 'Thời gian chạy:'
+  updatetime: 'Cập nhật lần cuối:'
+  wordcount: 'Số từ:'
+  toc: Mục lục
+  tagmore: Xem tất cả
+  avatar: Avatar
+  hello: 'Lâu rồi không gặp, '
+  back: Mừng bạn trở lại,
+  sticker: Mood sticker
+  newpost: Bài viết mới
+  newcomment: Bình luận mới
+  card:
+    posts: 'Bài viết:'
+    tags: 'Thẻ:'
+    categories: 'Danh mục:'
+
+console:
+  comment_tip: Tương tác
+  comment_title: Bình luận mới nhất
+  tag_tip: Thẻ
+  tag_title: Tìm khu vực thú vị
+  switch_darkmode: Chế độ sáng & tối
+  switch_hideAside: Kiểm soát hiển thị thanh bên
+  switch_keyboard: Thao tác bàn phím
+  switch_music: Music switch
+  archive_unit: Bài viết
+  recent_comment_more: Bình luận gần đây
+  newest_comment:
+    image: Ảnh
+    link: Liên kết
+    code: Code
+    emoji: Emoji
+
+sidebar:
+  function: Chức năng
+  darkmode: Chế độ hiển thị
+  siteinfo: Thông tin trang
+
+footer:
+  description: Bài viết từ ${title}
+  learnmore: Tìm hiểu thêm
+  randomlink: Liên kết
+  rss: Đăng ký
+  theme: Theme
+
+cookies:
+  title: Trợ lý nhắc nhở thỏa thuận
+  tip: Hãy xem những nỗ lực chúng tôi thực hiện để bảo vệ quyền riêng tư của bạn
+  privacy: Trang web này bảo vệ quyền riêng tư của bạn như thế nào
+
+music:
+  hit: Paused
+
+404:
+  button: Về trang chủ
+
+link:
+  banner:
+    toComment: Liên kết ứng dụng
+    random: Truy cập ngẫu nhiên
+  random: 'Nhấp vào nút để truy cập một liên kết ngẫu nhiên. Tính an toàn và khả dụng của trang web đích không được đảm bảo. Liên kết ngẫu nhiên cho lần truy cập này là: ⌈ ${name} ⌋ '
+  to: Tới
+
+keyboard:
+  title: Phím tắt
+
+newest_comment:
+  error: Không nhận được bình luận, vui lòng kiểm tra cấu hình.
+  zero: Không có bình luận.
+
+comment:
+  title: ' Bình luận'
+
+commentBarrage:
+  title: Hot
+
+f12: Chế độ nhà phát triển đã được bật, vui lòng tuân thủ GPL.
+
+right_menu:
+  copy: Sao chép
+  paste: Dán
+  comment: ToTalk
+  new: Mở
+  link: Sao chép
+  img: Sao chép
+  downloadImg: Tải xuống
+  search: Tìm kiếm
+  dark: Sáng
+  light: Tối
+  chs_to_cht: Tiếng Trung phồn thể
+  cht_to_chs: Tiếng Trung giản thể
+  img_error: Không thể sao chép hoặc tải xuống hình ảnh này.
+  ctrl_original_menu: Giữ Ctrl + nhấp chuột phải để mở menu ngữ cảnh của trình duyệt
+  barrage:
+    open: Open Barrage
+    close: Close Barrage
+  music:
+    start: Chơi nhạc
+    stop: Dừng nhạc
+    back: Quay lại
+    forward: Chuyển tiếp
+    copyMusicName: Sao chép tên
+
+pagination:
+  prev: Trước
+  next: Sau
+  to: Tới trang
+
+about:
+  other:
+    oneself:
+      map_title: Tôi sống ở
+      info_title1: Sinh ra
+      info_title2: Nghề nghiệp hiện tại
+    tj:
+      tip: Dữ liệu
+      title: Thống kê truy cập
+      post_tip: 'Thống kê từ:'
+  personalities:
+    tip1: At
+    tip2: 'Tìm hiểu thêm:'
+
+message:
+  close: Ẩn tin nhắn
+  open: Hiện tin nhắn
+
+essay:
+  tip0: '- Tất cả đã mở rộng -'
+  tip1: '- Triển lãm gần đây #{count} Bài viết ngắn -'
+  link: 'Liên kết'
+
+rightside:
+  show:
+    gear: Cài đặt
+    toc: Toc
+    comment: Bình luận
+    top: Top
+    barrage: 弹
+  hide:
+    translate: Chuyển đổi tiếng Trung
+    mode: Mode
+    aside: Sidebar
